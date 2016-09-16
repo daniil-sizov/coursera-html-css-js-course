@@ -46,3 +46,7 @@ h2 {
 .navbar-default .navbar-toggle, .navbar-default .navbar-collapse {
   border-color: #aaa;
 }
+
+.row > div {
+  margin-bottom: 15px;
+}
