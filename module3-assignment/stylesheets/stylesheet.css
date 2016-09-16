@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #303c41;
+}
+
+a {
+  color: #1e6bb8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+.main-content {
+  margin: 15px;
+}
+
+.main-content .col-xs-12 {
+  background-color: #eeeccc;
+}
+
+.navbar {
+  background-color: #eee0e0;
+  border-color: #aaa;
+}
+
+.navbar-default .navbar-toggle, .navbar-default .navbar-collapse {
+  border-color: #aaa;
+  text-align: center;
+}
